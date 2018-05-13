@@ -1,0 +1,20 @@
+{
+  "name": "play-browserify-test",
+  "version": "1.0.0",
+  "description": "[<img src=\"https://img.shields.io/travis/playframework/play-scala-starter-example.svg\"/>](https://travis-ci.org/playframework/play-scala-starter-example)",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-preset-es2015": "6.22.x",
+    "babelify": "7.3.x",
+    "browserify": "14.1.x"
+  }
+}
